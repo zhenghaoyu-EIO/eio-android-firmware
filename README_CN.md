@@ -1,6 +1,8 @@
 
 # EIO Android Firmware – 开发环境快速搭建指南（中文）
 
+[贡献指南](CONTRIBUTING_CN.md)
+
 本指南适用于 **Windows 11/10** 与 **Linux（Ubuntu 22.04/24.04）**。  
 目标：5‑15 分钟内跑起 *字幕 + 视频预览 Demo*，并基于 **main / feature** 分支模式开展协作。
 

@@ -2,6 +2,7 @@
 # EIO Android Firmware – Development Environment Setup
 
 [中文文档](README_CN.md)
+[Contributing Guide](CONTRIBUTING_EN.md)
 
 This guide shows **Windows 11/10** and **Linux (Ubuntu 22.04/24.04)** developers how to
 set up exactly the same Android 9 (API 28) tool‑chain that Star1s firmware uses.
